@@ -1,0 +1,20 @@
+Bm ~{
+    Items ~{
+        2Hull_Gkvan_a=Mods\Evolution\EvoGkvan\DATA\Items\Hull\2Hull_Gkvan_a.gai
+        2Hull_Gkvan_i=Mods\Evolution\EvoGkvan\DATA\Items\Hull\2Hull_Gkvan_i.gi
+        2Hull_Gkvan_s=Mods\Evolution\EvoGkvan\DATA\Items\Hull\2Hull_Gkvan_s.gi
+    }
+    PanelSpace2 ~{
+        2GkvanA=Mods\Evolution\EvoGkvan\DATA\PanelSpace2\GkvanA.gi
+        2GkvanD=Mods\Evolution\EvoGkvan\DATA\PanelSpace2\GkvanD.gi
+        2GkvanH=Mods\Evolution\EvoGkvan\DATA\PanelSpace2\GkvanH.gi
+        2GkvanN=Mods\Evolution\EvoGkvan\DATA\PanelSpace2\GkvanN.gi
+    }
+    Ship ~{
+        Gkvan=Mods\Evolution\EvoGkvan\DATA\Ship\Gkvan.hai
+        Gkvans=Mods\Evolution\EvoGkvan\DATA\Ship\Gkvans.hai
+    }
+    ShipP ~{
+        2Gkvan=Mods\Evolution\EvoGkvan\DATA\ShipP\2Gkvan.gi
+    }
+}

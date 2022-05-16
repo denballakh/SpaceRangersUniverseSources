@@ -1,0 +1,38 @@
+Bm ~{
+    Ship ~{
+        DreadnoughtFei=Mods\Evolution\EvoArmada\DATA\Ship\DreadnoughtFei.hai
+        DreadnoughtFeiMap=Mods\Evolution\EvoArmada\DATA\Ship\DreadnoughtFeiMap.png
+        DreadnoughtFeis=Mods\Evolution\EvoArmada\DATA\Ship\DreadnoughtFei_s.hai
+        DreadnoughtGaal=Mods\Evolution\EvoArmada\DATA\Ship\DreadnoughtGaal.hai
+        DreadnoughtGaalMap=Mods\Evolution\EvoArmada\DATA\Ship\DreadnoughtGaalMap.png
+        DreadnoughtGaals=Mods\Evolution\EvoArmada\DATA\Ship\DreadnoughtGaal_s.hai
+        DreadnoughtMaloc=Mods\Evolution\EvoArmada\DATA\Ship\DreadnoughtMaloc.hai
+        DreadnoughtMalocMap=Mods\Evolution\EvoArmada\DATA\Ship\DreadnoughtMalocMap.png
+        DreadnoughtMalocs=Mods\Evolution\EvoArmada\DATA\Ship\DreadnoughtMaloc_s.hai
+        DreadnoughtPeleng=Mods\Evolution\EvoArmada\DATA\Ship\DreadnoughtPeleng.hai
+        DreadnoughtPelengMap=Mods\Evolution\EvoArmada\DATA\Ship\DreadnoughtPelengMap.png
+        DreadnoughtPelengs=Mods\Evolution\EvoArmada\DATA\Ship\DreadnoughtPeleng_s.hai
+        DreadnoughtPeople=Mods\Evolution\EvoArmada\DATA\Ship\DreadnoughtPeople.hai
+        DreadnoughtPeopleMap=Mods\Evolution\EvoArmada\DATA\Ship\DreadnoughtPeopleMap.png
+        DreadnoughtPeoples=Mods\Evolution\EvoArmada\DATA\Ship\DreadnoughtPeople_s.hai
+        PirateCorvette=Mods\Evolution\EvoArmada\DATA\Ship\PirateCorvette.hai
+        PirateCorvette_s=Mods\Evolution\EvoArmada\DATA\Ship\PirateCorvette_s.hai
+        PirateFrigate=Mods\Evolution\EvoArmada\DATA\Ship\PirateFrigate.hai
+        PirateFrigate_s=Mods\Evolution\EvoArmada\DATA\Ship\PirateFrigate_s.hai
+        PirateGalleon=Mods\Evolution\EvoArmada\DATA\Ship\PirateGalleon.hai
+        PirateGalleon_s=Mods\Evolution\EvoArmada\DATA\Ship\PirateGalleon_s.hai
+    }
+    ShipP ~{
+        DreadnoughtFei=Mods\Evolution\EvoArmada\DATA\ShipP\DreadnoughtFei.gi
+        DreadnoughtGaal=Mods\Evolution\EvoArmada\DATA\ShipP\DreadnoughtGaal.gi
+        DreadnoughtMaloc=Mods\Evolution\EvoArmada\DATA\ShipP\DreadnoughtMaloc.gi
+        DreadnoughtPeleng=Mods\Evolution\EvoArmada\DATA\ShipP\DreadnoughtPeleng.gi
+        DreadnoughtPeople=Mods\Evolution\EvoArmada\DATA\ShipP\DreadnoughtPeople.gi
+        PirateCorvette=Mods\Evolution\EvoArmada\DATA\ShipP\PirateCorvette.gi
+        PirateFrigate=Mods\Evolution\EvoArmada\DATA\ShipP\PirateFrigate.gi
+        PirateGalleon=Mods\Evolution\EvoArmada\DATA\ShipP\PirateGalleon.gi
+    }
+}
+Font ~{
+    Ranger_12=Mods\Evolution\EvoArmada\DATA\Font\Font_Ranger_12.aft
+}

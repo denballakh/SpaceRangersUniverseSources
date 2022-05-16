@@ -1,0 +1,94 @@
+Music ^{
+    BK ^{
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\space_mystery.dat
+    }
+    Battle ^{
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\track02.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\theo-discharge.dat
+    }
+    MC ^{
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\space_mystery.dat
+    }
+    Nation ^{
+        Fei ^{
+            EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\Gatekeeper_-_Feican_Cry.dat
+            EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\romario-fei_music.dat
+        }
+        Gaal ^{
+            EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\Gaal_Music.dat
+        }
+        Maloc ^{
+            EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\malloc_base.dat
+        }
+        None ^{
+            EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\Silent_Planet.dat
+            EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\PlanB-Saturn.dat
+            EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\PlanB-Lost_time.dat
+        }
+        Peleng ^{
+            EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\pelengs.dat
+        }
+    }
+    PB ^{
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\space_mystery.dat
+    }
+    Quest ^{
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\about_natural_dreems.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\theo_-_Sansara.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\tales.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\legend.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\space_mystery.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\Shadow_Planet.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\nikinit-deathstar.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\theo-the_grand_cave.dat
+    }
+    RC ^{
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\CR-2.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\space_mystery.dat
+    }
+    Robot ^{
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\CR-2.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\next_target.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\Machine.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\Gatekeeper_-_United_Races.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\Slide_Agressor.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\PlanB-Venom.dat
+    }
+    SB ^{
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\space_mystery.dat
+    }
+    Song ^{
+        EvoMusic10=Music\special\song.dat
+    }
+    StarMap ^{
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\Gatekeeper_-_Amyleign.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\Another_SilenceA.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\Antares.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\rose.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\next_generation.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\star_defender.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\starfan.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\etude.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\fly7.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\nikinit-atmosphere.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\nikinit-deathstar.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\nikinit-lost_city.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\nikinit-starlord.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\offdate-not_for_this_world.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\rayman-first_flight.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\space2.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\theo-first_snow.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\theo-my_dear.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\theo-up_to_nowhere.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\romulus_-_zerog.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\theo_-_Still_Dreaming.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\PlanB-Bright_days.dat
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\PlanB-New_world.dat
+    }
+    WB ^{
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\space_mystery.dat
+    }
+    Win ^{
+        EvoMusic1=Mods\Evolution\EvoMusic\DATA\Music\theo_-_Victory.dat
+    }
+}

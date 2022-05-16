@@ -1,0 +1,769 @@
+Data ^{
+    SE ^{
+        Ruins ^{
+            BK ^{
+                WeaponPort1=0,-23
+                WeaponPort2=-31,-19
+                WeaponPort3=18,12
+                WeaponPort4=38,-5
+            }
+            BM ^{
+                WeaponPort1=-40,-43
+                WeaponPort2=6,-95
+                WeaponPort3=57,36
+                WeaponPort4=-51,109
+            }
+            Blazer ^{
+                WeaponPort1=-4,-13
+                WeaponPort2=-57,-40
+                WeaponPort3=30,-52
+                WeaponPort4=57,7
+                WeaponPort5=-40,30
+            }
+            BlazerShipyard ^{
+                WeaponPort1=-7,-43
+                WeaponPort2=-42,43
+                WeaponPort3=-53,-77
+                WeaponPort4=74,-44
+            }
+            CB ^{
+                WeaponPort1=-23,-65
+                WeaponPort2=-10,-54
+                WeaponPort3=2,-42
+                WeaponPort4=-4,31
+                WeaponPort5=60,37
+            }
+            Keller ^{
+                WeaponPort1=8,-6
+                WeaponPort2=-9,-15
+                WeaponPort3=23,-15
+                WeaponPort4=8,10
+            }
+            KellerShipyard ^{
+                WeaponPort1=-7,-43
+                WeaponPort2=-8,51
+                WeaponPort3=-72,-64
+                WeaponPort4=62,-63
+            }
+            MB ^{
+                WeaponPort1=-45,31
+                WeaponPort2=-27,-62
+                WeaponPort3=-2,-31
+                WeaponPort4=63,-15
+            }
+            MC ^{
+                WeaponPort1=3,-31
+                WeaponPort2=-41,13
+                WeaponPort3=3,50
+                WeaponPort4=58,12
+            }
+            PB ^{
+                WeaponPort1=-3,-48
+                WeaponPort2=-64,-5
+                WeaponPort3=-57,52
+                WeaponPort4=64,14
+            }
+            RC ^{
+                WeaponPort1=-26,3
+                WeaponPort2=3,-42
+                WeaponPort3=28,-30
+                WeaponPort4=16,4
+                WeaponPort5=-11,25
+            }
+            SB ^{
+                WeaponPort1=33,-66
+                WeaponPort2=50,-44
+                WeaponPort3=55,-23
+                WeaponPort4=77,-60
+            }
+            SSB ^{
+                WeaponPort1=-26,-38
+                WeaponPort2=0,109
+                WeaponPort3=35,-13
+                WeaponPort4=70,-3
+                WeaponPort5=84,-45
+            }
+            TC ^{
+                WeaponPort1=-17,15
+                WeaponPort2=4,-13
+                WeaponPort3=27,-13
+                WeaponPort4=14,30
+                WeaponPort5=21,13
+                WeaponPort6=37,11
+            }
+            Terron ^{
+                WeaponPort1=2,4
+                WeaponPort10=-46,-24
+                WeaponPort2=-28,-51
+                WeaponPort3=24,-52
+                WeaponPort4=44,-32
+                WeaponPort5=51,6
+                WeaponPort6=37,36
+                WeaponPort7=10,49
+                WeaponPort8=-31,38
+                WeaponPort9=-47,12
+            }
+            TerronShipyard ^{
+                WeaponPort1=8,-37
+                WeaponPort2=74,30
+                WeaponPort3=-77,-9
+                WeaponPort4=28,-82
+            }
+            WB ^{
+                WeaponPort1=16,-27
+                WeaponPort2=30,-37
+                WeaponPort3=-89,15
+                WeaponPort4=-75,20
+                WeaponPort5=-7,-111
+                WeaponPort6=98,-63
+            }
+        }
+        Ship ^{
+            Akrin ^{
+                DreadnoughtFei ^{
+                    2ImageP=GI,Bm.ShipP.DreadnoughtFei
+                    Anim ^{
+                        0=1,[35,100-199]
+                        Normal=2,[35,0-99]
+                    }
+                    AnimS ^{
+                        Normal=2,[35,0-99]
+                    }
+                    Image=Bm.Ship.DreadnoughtFei
+                    ImageMap=Bm.Ship.DreadnoughtFeiMap
+                    ImageS=Bm.Ship.DreadnoughtFeis
+                    PosZ=Ship
+                    SizeImage=256,256
+                    SizeLarge=190
+                    SizeSmall=170
+                    SmeCenterImage=128,128
+                    SmeImage=128,128
+                    SmeImageMap=2,2
+                    StateTime=2000
+                    WeaponPort1=104,72
+                    WeaponPort10=141,162
+                    WeaponPort2=149,72
+                    WeaponPort3=124,83
+                    WeaponPort4=129,83
+                    WeaponPort5=104,100
+                    WeaponPort6=149,100
+                    WeaponPort7=115,131
+                    WeaponPort8=138,131
+                    WeaponPort9=112,162
+                }
+                DreadnoughtGaal ^{
+                    2ImageP=GI,Bm.ShipP.DreadnoughtGaal
+                    Anim ^{
+                        0=1,[35,100-199]
+                        Normal=2,[35,0-99]
+                    }
+                    AnimS ^{
+                        Normal=2,[35,0-99]
+                    }
+                    Image=Bm.Ship.DreadnoughtGaal
+                    ImageMap=Bm.Ship.DreadnoughtGaalMap
+                    ImageS=Bm.Ship.DreadnoughtGaals
+                    PosZ=Ship
+                    SizeImage=256,256
+                    SizeLarge=190
+                    SizeSmall=170
+                    SmeCenterImage=128,128
+                    SmeImage=128,128
+                    SmeImageMap=2,2
+                    StateTime=2000
+                    WeaponPort1=123,45
+                    WeaponPort10=139,170
+                    WeaponPort2=131,45
+                    WeaponPort3=123,84
+                    WeaponPort4=131,84
+                    WeaponPort5=123,116
+                    WeaponPort6=131,116
+                    WeaponPort7=115,140
+                    WeaponPort8=139,140
+                    WeaponPort9=115,170
+                }
+                DreadnoughtMaloc ^{
+                    2ImageP=GI,Bm.ShipP.DreadnoughtMaloc
+                    Anim ^{
+                        0=1,[35,100-199]
+                        Normal=2,[35,0-99]
+                    }
+                    AnimS ^{
+                        Normal=2,[35,0-99]
+                    }
+                    Image=Bm.Ship.DreadnoughtMaloc
+                    ImageMap=Bm.Ship.DreadnoughtMalocMap
+                    ImageS=Bm.Ship.DreadnoughtMalocs
+                    PosZ=Ship
+                    SizeImage=256,256
+                    SizeLarge=190
+                    SizeSmall=170
+                    SmeCenterImage=128,128
+                    SmeImage=128,128
+                    SmeImageMap=2,2
+                    StateTime=2000
+                    WeaponPort1=124,56
+                    WeaponPort10=153,145
+                    WeaponPort2=133,56
+                    WeaponPort3=124,79
+                    WeaponPort4=133,79
+                    WeaponPort5=109,90
+                    WeaponPort6=148,90
+                    WeaponPort7=104,131
+                    WeaponPort8=153,131
+                    WeaponPort9=104,145
+                }
+                DreadnoughtPeleng ^{
+                    2ImageP=GI,Bm.ShipP.DreadnoughtPeleng
+                    Anim ^{
+                        0=1,[35,100-199]
+                        Normal=2,[35,0-99]
+                    }
+                    AnimS ^{
+                        Normal=2,[35,0-99]
+                    }
+                    Image=Bm.Ship.DreadnoughtPeleng
+                    ImageMap=Bm.Ship.DreadnoughtPelengMap
+                    ImageS=Bm.Ship.DreadnoughtPelengs
+                    PosZ=Ship
+                    SizeImage=256,256
+                    SizeLarge=190
+                    SizeSmall=170
+                    SmeCenterImage=128,128
+                    SmeImage=128,128
+                    SmeImageMap=2,2
+                    StateTime=2000
+                    WeaponPort1=120,41
+                    WeaponPort10=153,138
+                    WeaponPort2=141,41
+                    WeaponPort3=112,70
+                    WeaponPort4=149,70
+                    WeaponPort5=121,88
+                    WeaponPort6=140,88
+                    WeaponPort7=108,112
+                    WeaponPort8=153,112
+                    WeaponPort9=108,138
+                }
+                DreadnoughtPeople ^{
+                    2ImageP=GI,Bm.ShipP.DreadnoughtPeople
+                    Anim ^{
+                        0=1,[35,100-199]
+                        Normal=2,[35,0-99]
+                    }
+                    AnimS ^{
+                        Normal=2,[35,0-99]
+                    }
+                    Image=Bm.Ship.DreadnoughtPeople
+                    ImageMap=Bm.Ship.DreadnoughtPeopleMap
+                    ImageS=Bm.Ship.DreadnoughtPeoples
+                    PosZ=Ship
+                    SizeImage=256,256
+                    SizeLarge=190
+                    SizeSmall=170
+                    SmeCenterImage=128,128
+                    SmeImage=128,128
+                    SmeImageMap=2,2
+                    StateTime=2000
+                    WeaponPort1=116,36
+                    WeaponPort10=148,135
+                    WeaponPort2=137,36
+                    WeaponPort3=107,64
+                    WeaponPort4=146,64
+                    WeaponPort5=106,82
+                    WeaponPort6=147,82
+                    WeaponPort7=104,108
+                    WeaponPort8=148,108
+                    WeaponPort9=105,135
+                }
+                KlissanEgemon ^{
+                    SizeLarge=148
+                    SizeSmall=132
+                    WeaponPort1=47,10
+                    WeaponPort2=82,10
+                    WeaponPort3=54,21
+                    WeaponPort4=75,21
+                    WeaponPort5=56,48
+                    WeaponPort6=73,48
+                    WeaponPort7=31,53
+                    WeaponPort8=96,53
+                }
+                KlissanGigas ^{
+                    SizeLarge=185
+                    SizeSmall=155
+                    WeaponPort1=47,10
+                    WeaponPort2=82,10
+                    WeaponPort3=54,21
+                    WeaponPort4=75,21
+                    WeaponPort5=56,48
+                    WeaponPort6=73,48
+                    WeaponPort7=31,53
+                    WeaponPort8=96,53
+                }
+                KlissanNondus ^{
+                    SizeLarge=115
+                    SizeSmall=85
+                    WeaponPort1=46,73
+                    WeaponPort2=86,73
+                    WeaponPort3=31,81
+                    WeaponPort4=99,81
+                }
+                PirateCorvette ^{
+                    2ImageP=GI,Bm.ShipP.PirateCorvette
+                    Anim ^{
+                        0=1,[35,100-199]
+                        Normal=2,[35,0-99]
+                    }
+                    AnimS ^{
+                        Normal=2,[35,0-99]
+                    }
+                    Image=Bm.Ship.PirateCorvette
+                    ImageMap=Bm.Ship.SpecialMap
+                    ImageS=Bm.Ship.PirateCorvette_s
+                    PosZ=Ship
+                    SizeImage=128,128
+                    SizeLarge=115
+                    SizeSmall=85
+                    SmeCenterImage=64,64
+                    SmeImage=64,64
+                    SmeImageMap=2,2
+                    StateTime=2000
+                    Tail1=62,120
+                    WeaponPort1=64,84
+                    WeaponPort2=64,97
+                    WeaponPort3=64,109
+                }
+                PirateFrigate ^{
+                    2ImageP=GI,Bm.ShipP.PirateFrigate
+                    Anim ^{
+                        0=1,[35,100-199]
+                        Normal=2,[35,0-99]
+                    }
+                    AnimS ^{
+                        Normal=2,[35,0-99]
+                    }
+                    Image=Bm.Ship.PirateFrigate
+                    ImageMap=Bm.Ship.SpecialMap
+                    ImageS=Bm.Ship.PirateFrigate_s
+                    PosZ=Ship
+                    SizeImage=128,128
+                    SizeLarge=140
+                    SizeSmall=120
+                    SmeCenterImage=64,64
+                    SmeImage=64,64
+                    SmeImageMap=2,2
+                    StateTime=2000
+                    Tail1=56,113
+                    Tail2=70,113
+                    WeaponPort1=63,32
+                    WeaponPort2=63,47
+                    WeaponPort3=41,30
+                    WeaponPort4=85,29
+                    WeaponPort5=41,48
+                    WeaponPort6=85,48
+                    WeaponPort7=41,61
+                    WeaponPort8=85,61
+                }
+                PirateGalleon ^{
+                    2ImageP=GI,Bm.ShipP.PirateGalleon
+                    Anim ^{
+                        0=1,[35,100-199]
+                        1=1,[35,200-299]
+                        Normal=2,[35,0-99]
+                    }
+                    AnimS ^{
+                        Normal=2,[35,0-99]
+                    }
+                    Image=Bm.Ship.PirateGalleon
+                    ImageMap=Bm.Ship.SpecialMap
+                    ImageS=Bm.Ship.PirateGalleon_s
+                    PosZ=Ship
+                    SizeImage=128,128
+                    SizeLarge=155
+                    SizeSmall=135
+                    SmeCenterImage=64,64
+                    SmeImage=64,64
+                    SmeImageMap=2,2
+                    StateTime=2000
+                    Tail1=57,112
+                    Tail2=72,112
+                    WeaponPort1=64,31
+                    WeaponPort2=64,45
+                    WeaponPort3=30,29
+                    WeaponPort4=97,30
+                    WeaponPort5=30,49
+                    WeaponPort6=97,50
+                    WeaponPort7=30,67
+                    WeaponPort8=97,68
+                }
+            }
+            Blazer ^{
+                B1 ^{
+                    SizeLarge=148
+                    SizeSmall=132
+                    WeaponPort1=48,28
+                    WeaponPort2=81,28
+                    WeaponPort3=48,42
+                    WeaponPort4=81,42
+                    WeaponPort5=48,57
+                    WeaponPort6=81,57
+                    WeaponPort7=48,73
+                    WeaponPort8=81,73
+                }
+                B2 ^{
+                    SizeLarge=115
+                    SizeSmall=85
+                    WeaponPort1=46,26
+                    WeaponPort2=83,26
+                }
+                B6 ^{
+                    SizeImage=256,256
+                    SizeLarge=185
+                    SizeSmall=155
+                    SmeCenterImage=128,128
+                    SmeImage=128,128
+                    WeaponPort1=111,39
+                    WeaponPort10=146,174
+                    WeaponPort2=146,39
+                    WeaponPort3=111,65
+                    WeaponPort4=146,65
+                    WeaponPort5=103,95
+                    WeaponPort6=154,95
+                    WeaponPort7=114,135
+                    WeaponPort8=143,135
+                    WeaponPort9=111,174
+                }
+            }
+            Fei ^{
+                WarriorBig ^{
+                    SizeImage=256,256
+                    SizeLarge=165
+                    SizeSmall=145
+                    SmeCenterImage=128,128
+                    SmeImage=128,128
+                    WeaponPort1=92,49
+                    WeaponPort10=194,189
+                    WeaponPort2=165,49
+                    WeaponPort3=93,71
+                    WeaponPort4=164,71
+                    WeaponPort5=101,138
+                    WeaponPort6=156,138
+                    WeaponPort7=94,152
+                    WeaponPort8=163,152
+                    WeaponPort9=63,189
+                }
+            }
+            Gaal ^{
+                WarriorBig ^{
+                    SizeImage=256,256
+                    SizeLarge=165
+                    SizeSmall=145
+                    SmeCenterImage=128,128
+                    SmeImage=128,128
+                    WeaponPort1=58,40
+                    WeaponPort10=181,152
+                    WeaponPort2=202,40
+                    WeaponPort3=86,71
+                    WeaponPort4=174,71
+                    WeaponPort5=57,116
+                    WeaponPort6=203,116
+                    WeaponPort7=58,153
+                    WeaponPort8=202,153
+                    WeaponPort9=79,152
+                }
+            }
+            Keller ^{
+                K1 ^{
+                    SizeLarge=148
+                    SizeSmall=132
+                    WeaponPort1=48,28
+                    WeaponPort2=81,28
+                    WeaponPort3=48,42
+                    WeaponPort4=81,42
+                    WeaponPort5=48,57
+                    WeaponPort6=81,57
+                    WeaponPort7=48,73
+                    WeaponPort8=81,73
+                }
+                K2 ^{
+                    SizeLarge=115
+                    SizeSmall=85
+                    WeaponPort1=46,26
+                    WeaponPort2=83,26
+                }
+                K6 ^{
+                    SizeImage=256,256
+                    SizeLarge=185
+                    SizeSmall=155
+                    SmeCenterImage=128,128
+                    SmeImage=128,128
+                    WeaponPort1=111,27
+                    WeaponPort10=146,165
+                    WeaponPort2=146,27
+                    WeaponPort3=111,54
+                    WeaponPort4=146,54
+                    WeaponPort5=103,85
+                    WeaponPort6=154,85
+                    WeaponPort7=114,134
+                    WeaponPort8=143,134
+                    WeaponPort9=111,165
+                }
+            }
+            Maloc ^{
+                WarriorBig ^{
+                    SizeImage=256,256
+                    SizeLarge=165
+                    SizeSmall=145
+                    SmeCenterImage=128,128
+                    SmeImage=128,128
+                    WeaponPort1=105,25
+                    WeaponPort10=156,205
+                    WeaponPort2=153,25
+                    WeaponPort3=104,75
+                    WeaponPort4=154,75
+                    WeaponPort5=98,78
+                    WeaponPort6=160,78
+                    WeaponPort7=48,147
+                    WeaponPort8=210,147
+                    WeaponPort9=102,205
+                }
+            }
+            Peleng ^{
+                WarriorBig ^{
+                    SizeImage=256,256
+                    SizeLarge=165
+                    SizeSmall=145
+                    SmeCenterImage=128,128
+                    SmeImage=128,128
+                    WeaponPort1=83,46
+                    WeaponPort10=217,163
+                    WeaponPort2=174,46
+                    WeaponPort3=69,57
+                    WeaponPort4=188,57
+                    WeaponPort5=61,59
+                    WeaponPort6=196,59
+                    WeaponPort7=101,83
+                    WeaponPort8=156,83
+                    WeaponPort9=41,163
+                }
+            }
+            People ^{
+                WarriorBig ^{
+                    SizeImage=256,256
+                    SizeLarge=165
+                    SizeSmall=145
+                    SmeCenterImage=128,128
+                    SmeImage=128,128
+                    WeaponPort1=75,69
+                    WeaponPort2=184,69
+                    WeaponPort3=91,124
+                    WeaponPort4=169,124
+                    WeaponPort5=131,130
+                    WeaponPort6=131,153
+                    WeaponPort7=131,171
+                    WeaponPort8=131,188
+                    WeaponPort9=131,205
+                }
+            }
+            Terron ^{
+                T1 ^{
+                    SizeLarge=148
+                    SizeSmall=132
+                    WeaponPort1=48,28
+                    WeaponPort2=81,28
+                    WeaponPort3=48,42
+                    WeaponPort4=81,42
+                    WeaponPort5=48,57
+                    WeaponPort6=81,57
+                    WeaponPort7=48,73
+                    WeaponPort8=81,73
+                }
+                T2 ^{
+                    SizeLarge=115
+                    SizeSmall=85
+                    WeaponPort1=46,26
+                    WeaponPort2=83,26
+                }
+                T6 ^{
+                    SizeImage=256,256
+                    SizeLarge=185
+                    SizeSmall=155
+                    SmeCenterImage=128,128
+                    SmeImage=128,128
+                    WeaponPort1=111,39
+                    WeaponPort10=146,174
+                    WeaponPort2=146,39
+                    WeaponPort3=111,65
+                    WeaponPort4=146,65
+                    WeaponPort5=103,95
+                    WeaponPort6=154,95
+                    WeaponPort7=114,128
+                    WeaponPort8=143,128
+                    WeaponPort9=111,174
+                }
+            }
+        }
+    }
+    ScriptLibs ^{
+        Mod_EvoArmada=UtilityFunctions
+    }
+}
+ML ^{
+    Scaner ^{
+        Panel ^{
+            Panel ^{
+                Panel ^{
+                    Panel ^{
+                        GunBatterySlotIndicators ^{
+                            Label ^{
+                                Active=False
+                                AlignX=Center
+                                AlignY=CenterEx
+                                Font=Font.Ranger_12
+                                Name=GunBatteryLabelSlot1
+                                Pos=138,114,-10
+                                Size=36,14
+                                Text=x1
+                                TextColor=0,24,40
+                                TextShadow=1
+                                TextShadowColor=0,132,184
+                            }
+                            Label ^{
+                                Active=False
+                                AlignX=Center
+                                AlignY=CenterEx
+                                Font=Font.Ranger_12
+                                Name=GunBatteryLabelSlot2
+                                Pos=236,114,-10
+                                Size=36,14
+                                Text=x1
+                                TextColor=0,24,40
+                                TextShadow=1
+                                TextShadowColor=0,132,184
+                            }
+                            Label ^{
+                                Active=False
+                                AlignX=Center
+                                AlignY=CenterEx
+                                Font=Font.Ranger_12
+                                Name=GunBatteryLabelSlot3
+                                Pos=334,114,-10
+                                Size=36,14
+                                Text=x1
+                                TextColor=0,24,40
+                                TextShadow=1
+                                TextShadowColor=0,132,184
+                            }
+                            Label ^{
+                                Active=False
+                                AlignX=Center
+                                AlignY=CenterEx
+                                Font=Font.Ranger_12
+                                Name=GunBatteryLabelSlot4
+                                Pos=187,33,-10
+                                Size=36,14
+                                Text=x1
+                                TextColor=0,24,40
+                                TextShadow=1
+                                TextShadowColor=0,132,184
+                            }
+                            Label ^{
+                                Active=False
+                                AlignX=Center
+                                AlignY=CenterEx
+                                Font=Font.Ranger_12
+                                Name=GunBatteryLabelSlot5
+                                Pos=282,33,-10
+                                Size=36,14
+                                Text=x1
+                                TextColor=0,24,40
+                                TextShadow=1
+                                TextShadowColor=0,132,184
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    Ship ^{
+        Panel ^{
+            Panel ^{
+            }
+            Panel ^{
+                Panel ^{
+                }
+                Panel ^{
+                    Panel ^{
+                        GunBatterySlotIndicators ^{
+                            Label ^{
+                                Active=False
+                                AlignX=Center
+                                AlignY=CenterEx
+                                Font=Font.Ranger_12
+                                Name=GunBatteryLabelSlot1
+                                Pos=138,114,-10
+                                Size=36,14
+                                Text=x1
+                                TextColor=0,24,40
+                                TextShadow=1
+                                TextShadowColor=0,132,184
+                            }
+                            Label ^{
+                                Active=False
+                                AlignX=Center
+                                AlignY=CenterEx
+                                Font=Font.Ranger_12
+                                Name=GunBatteryLabelSlot2
+                                Pos=236,114,-10
+                                Size=36,14
+                                Text=x1
+                                TextColor=0,24,40
+                                TextShadow=1
+                                TextShadowColor=0,132,184
+                            }
+                            Label ^{
+                                Active=False
+                                AlignX=Center
+                                AlignY=CenterEx
+                                Font=Font.Ranger_12
+                                Name=GunBatteryLabelSlot3
+                                Pos=334,114,-10
+                                Size=36,14
+                                Text=x1
+                                TextColor=0,24,40
+                                TextShadow=1
+                                TextShadowColor=0,132,184
+                            }
+                            Label ^{
+                                Active=False
+                                AlignX=Center
+                                AlignY=CenterEx
+                                Font=Font.Ranger_12
+                                Name=GunBatteryLabelSlot4
+                                Pos=187,33,-10
+                                Size=36,14
+                                Text=x1
+                                TextColor=0,24,40
+                                TextShadow=1
+                                TextShadowColor=0,132,184
+                            }
+                            Label ^{
+                                Active=False
+                                AlignX=Center
+                                AlignY=CenterEx
+                                Font=Font.Ranger_12
+                                Name=GunBatteryLabelSlot5
+                                Pos=282,33,-10
+                                Size=36,14
+                                Text=x1
+                                TextColor=0,24,40
+                                TextShadow=1
+                                TextShadowColor=0,132,184
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

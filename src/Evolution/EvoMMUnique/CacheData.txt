@@ -1,0 +1,12 @@
+Bm ~{
+    Container ~{
+        2mm_Un=Mods\Evolution\EvoMMUnique\DATA\Items\Container\2mm_un.gai
+    }
+    Micromoduls ~{
+        2MMUn_Set=Mods\Evolution\EvoMMUnique\DATA\Micromoduls\2MMUnSet.gi
+        2MMUn_s=Mods\Evolution\EvoMMUnique\DATA\Micromoduls\2MMUn.gi
+    }
+}
+Script ~{
+    Mod_EvoMMUnique=Mods\Evolution\EvoMMUnique\DATA\Script\Mod_EvoMMUnique.scr
+}

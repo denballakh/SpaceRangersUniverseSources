@@ -1,0 +1,8 @@
+Bm ^{
+    ItemsUseless ^{
+        2Container_lirekron_s=Mods\Evolution\EvoAmmoBox\DATA\ItemsUseless\2AmmoBox2.gi
+        2Container_missile_s=Mods\Evolution\EvoAmmoBox\DATA\ItemsUseless\2AmmoBox3.gi
+        2Container_sphere_s=Mods\Evolution\EvoAmmoBox\DATA\ItemsUseless\2AmmoBox1.gi
+        2Container_torpedo_s=Mods\Evolution\EvoAmmoBox\DATA\ItemsUseless\2AmmoBox4.gi
+    }
+}

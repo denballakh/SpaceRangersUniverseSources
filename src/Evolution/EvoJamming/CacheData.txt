@@ -1,0 +1,6 @@
+Bm ~{
+    PanelSpace2 ~{
+        2RadarJamming=Mods\Evolution\EvoJamming\DATA\PanelSpace2\Jamming.gai
+    }
+}
+

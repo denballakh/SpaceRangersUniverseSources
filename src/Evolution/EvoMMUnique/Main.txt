@@ -1,0 +1,15 @@
+Data ^{
+    SE ^{
+        Item ^{
+            mm_Un ^{
+                1Image=Bm.Container.2mm_Un
+                2Image=Bm.Container.2mm_Un
+                ImageMap=Bm.Container.Map0
+                PosZ=Item
+            }
+        }
+    }
+    Script ^{
+        Mod_EvoMMUnique=1,Script.Mod_EvoMMUnique
+    }
+}

@@ -1,0 +1,19 @@
+Bm ~{
+    Items ~{
+        2WMabokita=Mods\Evolution\EvoMabokit\DATA\Items\Mabokit_a.gai
+        2WMabokiti=Mods\Evolution\EvoMabokit\DATA\Items\Mabokit_i.gi
+        2WMabokits=Mods\Evolution\EvoMabokit\DATA\Items\Mabokit_s.gi
+    }
+    Missile ~{
+        wMabokit=Mods\Evolution\EvoMabokit\DATA\Missile\Mabokit.hai
+        wMabokit_2i=Mods\Evolution\EvoMabokit\DATA\Missile\Mabokit.gi
+    }
+    Weapon ~{
+        Mabokit_Hit=Mods\Evolution\EvoMabokit\DATA\Weapon\Mabokit_Splash.gai
+        Mabokit_Splash=Mods\Evolution\EvoMabokit\DATA\Weapon\Mabokit_Splash.gai
+        MissileTarget=Mods\Evolution\EvoMabokit\DATA\Weapon\Effect\MissileTarget.gai
+    }
+}
+Sound ~{
+    shotMabokit=sound\shot\shot03.wav
+}

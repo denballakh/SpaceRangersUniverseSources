@@ -1,0 +1,57 @@
+Data ^{
+    SE ^{
+        Missile ^{
+            wMabokit ^{
+                PosZ=Missile
+            }
+        }
+        Weapon ^{
+            AuraEffect ^{
+                Palettes ^{
+                    3 ^{
+                        GAI=Bm.Weapon.MissileTarget
+                    }
+                }
+            }
+            MissileHit ^{
+                Palettes ^{
+                    0 ^{
+                    }
+                    1 ^{
+                    }
+                    2 ^{
+                    }
+                    3 ^{
+                    }
+                    4 ^{
+                    }
+                    5 ^{
+                        GAI=Bm.Weapon.FX_blue
+                    }
+                    6 ^{
+                        GAI=Bm.Weapon.Mabokit_Hit
+                    }
+                    7 ^{
+                        GAI=Bm.Weapon.Bomb
+                    }
+                }
+            }
+            RadialEffect ^{
+                Palettes ^{
+                    3 ^{
+                        Color0=0.8,0.1,0.1
+                        Color1=0.7,0.7,0.7
+                    }
+                    4 ^{
+                        Color0=0.1,0.2,0.8
+                        Color1=0.7,0.7,0.7
+                    }
+                    5 ^{
+                        Color0=0.2,0.8,0.2
+                        Color1=0.7,0.7,0.7
+                    }
+                }
+            }
+        }
+    }
+}

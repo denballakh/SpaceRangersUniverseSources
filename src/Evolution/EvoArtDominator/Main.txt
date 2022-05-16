@@ -1,0 +1,14 @@
+Data ^{
+    SE ^{
+        Weapon ^{
+            AuraEffect ^{
+                Palettes ^{
+                    3 ^{
+                        GAI=Bm.Weapon.MissileTarget
+                    }
+                    PalettesCount=4
+                }
+            }
+        }
+    }
+}

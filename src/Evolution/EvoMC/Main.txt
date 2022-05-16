@@ -1,0 +1,8 @@
+Data ^{
+    Script ^{
+        Mod_EvoMC=1,Script.Mod_EvoMC
+    }
+    ScriptLibs ^{
+        Mod_EvoMC=UtilityFunctions
+    }
+}

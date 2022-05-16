@@ -1,0 +1,31 @@
+Data ^{
+    SE ^{
+        Ship ^{
+            Akrin ^{
+                Gkvan ^{
+                    2ImageP=GI,Bm.ShipP.2Gkvan
+                    Anim ^{
+                        0=1,[70,50-99]
+                        Normal=2,[70,0-49]
+                    }
+                    AnimS ^{
+                        Normal=2,[70,0-49]
+                    }
+                    Image=Bm.Ship.Gkvan
+                    ImageMap=Bm.Ship.SpecialMap
+                    ImageS=Bm.Ship.Gkvans
+                    PanelPartnerImage=Gkvan
+                    PosZ=Ship
+                    SizeImage=128,128
+                    SmeCenterImage=64,64
+                    SmeImage=62,85
+                    SmeImageMap=2,2
+                    StateTime=2000
+                    Tail1=56,105
+                    Tail2=64,105
+                    Tail3=72,105
+                }
+            }
+        }
+    }
+}

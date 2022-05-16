@@ -1,0 +1,35 @@
+Bm ~{
+    FormShip2 ~{
+        2AI_2552160=Mods\Evolution\EvoMC\DATA\FormShip\YellowShroud.gi
+        2AI_2552160L=Mods\Evolution\EvoMC\DATA\FormShip\YellowShroud_big.gi
+    }
+    Items ~{
+        2UrineTincture_ab=Mods\Evolution\EvoMC\DATA\Items\UrineTincture_ab.gi
+        2UrineTincture_s=Mods\Evolution\EvoMC\DATA\Items\UrineTincture.gi
+    }
+    ItemsUseless ~{
+        2Usl_Drug01_s=Mods\Evolution\EvoMC\DATA\ItemsUseless\2Usl_Drug.gi
+        2Usl_Drug02_s=Mods\Evolution\EvoMC\DATA\ItemsUseless\2Usl_Drug.gi
+        2Usl_Drug03_s=Mods\Evolution\EvoMC\DATA\ItemsUseless\2Usl_Drug.gi
+        2Usl_Drug04_s=Mods\Evolution\EvoMC\DATA\ItemsUseless\2Usl_Drug.gi
+        2Usl_Drug05_s=Mods\Evolution\EvoMC\DATA\ItemsUseless\2Usl_Drug.gi
+        2Usl_Drug06_s=Mods\Evolution\EvoMC\DATA\ItemsUseless\2Usl_Drug.gi
+        2Usl_Drug07_s=Mods\Evolution\EvoMC\DATA\ItemsUseless\2Usl_Drug.gi
+        2Usl_Drug08_s=Mods\Evolution\EvoMC\DATA\ItemsUseless\2Usl_Drug.gi
+        2Usl_Drug09_s=Mods\Evolution\EvoMC\DATA\ItemsUseless\2Usl_Drug.gi
+        2Usl_Drug10_s=Mods\Evolution\EvoMC\DATA\ItemsUseless\2Usl_Drug.gi
+        2Usl_Drug11_s=Mods\Evolution\EvoMC\DATA\ItemsUseless\2Usl_Drug.gi
+        2Usl_Drug12_s=Mods\Evolution\EvoMC\DATA\ItemsUseless\2Usl_Drug.gi
+        2Usl_Drug13_s=Mods\Evolution\EvoMC\DATA\ItemsUseless\2Usl_Drug.gi
+        2Usl_Drug14_s=Mods\Evolution\EvoMC\DATA\ItemsUseless\2Usl_Drug.gi
+        2Usl_Drug15_s=Mods\Evolution\EvoMC\DATA\ItemsUseless\2Usl_Drug.gi
+        2Usl_Drug16_s=Mods\Evolution\EvoMC\DATA\ItemsUseless\2Usl_Drug.gi
+        2Usl_Drug17_s=Mods\Evolution\EvoMC\DATA\ItemsUseless\2Usl_Drug.gi
+    }
+}
+Sound ~{
+    JarBreaking=Mods\Evolution\EvoMC\DATA\Sound\JarBreaking.wav
+}
+Script ~{
+    Mod_EvoMC=Mods\Evolution\EvoMC\DATA\Script\Mod_EvoMC.scr
+}

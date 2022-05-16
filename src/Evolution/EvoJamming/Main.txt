@@ -1,0 +1,37 @@
+ML ^{
+    StarMap ^{
+        Panel ^{
+            Panel ^{
+                ARadarJamming ^{
+                    Image ^{
+                        Active=False
+                        Image=GAI,Bm.PanelSpace2.2RadarJamming
+                        MouseBlocking=True
+                        Name=RadarJamming
+                        Pos=352,-373,-13.5
+                        PosAutoCorrection=True
+                        PosAutoCorrectionXCoef=0.5
+                        PosAutoCorrectionYCoef=-0.5
+                        Size=149,149
+                    }
+                }
+            }
+        }
+    }
+    Talk ^{
+        Panel ^{
+            ARadarJamming ^{
+                Image ^{
+                    Active=False
+                    Image=GAI,Bm.PanelSpace2.2RadarJamming
+                    MouseBlocking=True
+                    Name=RadarJamming
+                    Pos=864,11,-8.5
+                    PosAutoCorrection=True
+                    PosAutoCorrectionXCoef=1.0
+                    Size=149,149
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,56 @@
+Bm ~{
+    BGO ~{
+        bg72=Mods\Evolution\EvoBG\DATA\BGObj\bg72.gai
+        bg79=Mods\Evolution\EvoBG\DATA\BGObj\bg79.gai
+        bg80=Mods\Evolution\EvoBG\DATA\BGObj\bg80.gai
+        bg81=Mods\Evolution\EvoBG\DATA\BGObj\bg81.gai
+        bg82=Mods\Evolution\EvoBG\DATA\BGObj\bg82.gai
+        bg83=Mods\Evolution\EvoBG\DATA\BGObj\bg83.gai
+        bg84=Mods\Evolution\EvoBG\DATA\BGObj\bg84.gai
+        bg85=Mods\Evolution\EvoBG\DATA\BGObj\bg85.gai
+        bg86=Mods\Evolution\EvoBG\DATA\BGObj\bg86.gai
+    }
+    PUMaps ~{
+        Cheshilan=Mods\Evolution\EvoBG\DATA\PUMaps\Cheshilan.jpg
+        Deeva=Mods\Evolution\EvoBG\DATA\PUMaps\Deeva.jpg
+        Garharl=Mods\Evolution\EvoBG\DATA\PUMaps\Garharl.jpg
+        Neptune=DATA\PUMaps\neptune.jpg
+        Tristeria=Mods\Evolution\EvoBG\DATA\PUMaps\Tristeria.jpg
+        Uran=Mods\Evolution\EvoBG\DATA\PUMaps\Uran.jpg
+    }
+    Planet2 ~{
+        C ~{
+            160 ~{
+                m160=Mods\Evolution\EvoBG\DATA\Planet2\160\cloud\m160.psd
+            }
+            200 ~{
+                m1_1=Mods\Evolution\EvoBG\DATA\Planet2\200\cloud\m1_1.psd
+                m1_2=Mods\Evolution\EvoBG\DATA\Planet2\200\cloud\m1_2.psd
+                m1_3=Mods\Evolution\EvoBG\DATA\Planet2\200\cloud\m1_3.psd
+            }
+        }
+        T ~{
+            120 ~{
+                Deeva=Mods\Evolution\EvoBG\DATA\Planet2\120\Pl01x120.psd
+            }
+            180 ~{
+                Tristeria=Mods\Evolution\EvoBG\DATA\Planet2\180\Pl01x180.psd
+            }
+            200 ~{
+                Cheshilan=Mods\Evolution\EvoBG\DATA\Planet2\200\Pl01x200.psd
+                Garharl=Mods\Evolution\EvoBG\DATA\Planet2\200\Pl02x200.psd
+            }
+            Solar ~{
+                Uran=Mods\Evolution\EvoBG\DATA\Planet2\Solar\Uran.psd
+            }
+        }
+    }
+    PlanetBG ~{
+        Cheshilan=Mods\Evolution\EvoBG\DATA\PlanetBG\Cheshilan.gi
+        Deeva=Mods\Evolution\EvoBG\DATA\PlanetBG\Deeva.gi
+        Garharl=Mods\Evolution\EvoBG\DATA\PlanetBG\Garharl.gi
+        None=Mods\Evolution\EvoBG\DATA\PlanetBG\None.gi
+        Tristeria=Mods\Evolution\EvoBG\DATA\PlanetBG\Tristeria.gi
+        Uran=Mods\Evolution\EvoBG\DATA\PlanetBG\Uran.gi
+    }
+}

@@ -1,0 +1,23 @@
+Bm ~{
+    Items ~{
+        2Satellite0_a=data\Items\2Satellite0a.gai
+        2Satellite0_s=data\Items\2Satellite0.gi
+        2Satellite1_a=data\Items\2Satellite1a.gai
+        2Satellite1_s=data\Items\2Satellite1.gi
+        2Satellite2_a=data\Items\2Satellite2a.gai
+        2Satellite2_s=data\Items\2Satellite2.gi
+        2Satellite3_a=data\Items\2Satellite3a.gai
+        2Satellite3_s=data\Items\2Satellite3.gi
+        2Satellite4_a=data\Items\2Satellite4a.gai
+        2Satellite4_s=data\Items\2Satellite4.gi
+        2Satellite5_a=data\Items\2Satellite5a.gai
+        2Satellite5_s=data\Items\2Satellite5.gi
+        2Satellite6_a=Mods\Evolution\EvoSB\DATA\Items\2Satellite6a.gai
+        2Satellite6_s=Mods\Evolution\EvoSB\DATA\Items\2Satellite6.gi
+        2Satellite7_a=Mods\Evolution\EvoSB\DATA\Items\2Satellite7a.gai
+        2Satellite7_s=Mods\Evolution\EvoSB\DATA\Items\2Satellite7.gi
+    }
+}
+Script ~{
+    Mod_EvoSB=Mods\Evolution\EvoSB\DATA\Script\Mod_EvoSB.scr
+}

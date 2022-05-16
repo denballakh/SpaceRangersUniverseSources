@@ -1,0 +1,132 @@
+Bm ~{
+    Container ~{
+        MapTranc=Mods\Evolution\EvoTranc\DATA\MapIcon\MapTranc.png
+    }
+    FormCount2 ~{
+        2KindCredits=Mods\Evolution\EvoTranc\DATA\NumberBox\2KindCredits.gi
+        2KindEmpty=Mods\Evolution\EvoTranc\DATA\NumberBox\2KindEmpty.gi
+    }
+    FormShip2 ~{
+        2AI_500=Mods\Evolution\EvoTranc\DATA\Infos\TrancGun.gi
+        2AI_500L=Mods\Evolution\EvoTranc\DATA\Infos\TrancGun_L.gi
+        2AI_501=Mods\Evolution\EvoTranc\DATA\Infos\TrancAttack.gi
+        2AI_501L=Mods\Evolution\EvoTranc\DATA\Infos\TrancAttack_L.gi
+        2AI_502=Mods\Evolution\EvoTranc\DATA\Infos\TrancShield.gi
+        2AI_502L=Mods\Evolution\EvoTranc\DATA\Infos\TrancShield_L.gi
+        2AI_503=Mods\Evolution\EvoTranc\DATA\Infos\TrancInvincibility.gi
+        2AI_503L=Mods\Evolution\EvoTranc\DATA\Infos\TrancInvincibility_L.gi
+        2AI_504=Mods\Evolution\EvoTranc\DATA\Infos\TrancNavComputer.gi
+        2AI_504L=Mods\Evolution\EvoTranc\DATA\Infos\TrancNavComputer_L.gi
+    }
+    Items ~{
+        2ArtTranclucatorBlueab=Mods\Evolution\EvoTranc\DATA\Items\2ArtTranclucatorBlue_ab.gi
+        2ArtTranclucatorBlues=Mods\Evolution\EvoTranc\DATA\Items\2ArtTranclucatorBlue.gi
+        2ArtTranclucatorGreenab=Mods\Evolution\EvoTranc\DATA\Items\2ArtTranclucatorGreen_ab.gi
+        2ArtTranclucatorGreens=Mods\Evolution\EvoTranc\DATA\Items\2ArtTranclucatorGreen.gi
+        2ArtTranclucatorRedab=Mods\Evolution\EvoTranc\DATA\Items\2ArtTranclucatorRed_ab.gi
+        2ArtTranclucatorReds=Mods\Evolution\EvoTranc\DATA\Items\2ArtTranclucatorRed.gi
+        2ArtTranclucatorVioletab=Mods\Evolution\EvoTranc\DATA\Items\2ArtTranclucatorViolet_ab.gi
+        2ArtTranclucatorViolets=Mods\Evolution\EvoTranc\DATA\Items\2ArtTranclucatorViolet.gi
+        2ArtTranclucatorWhiteab=Mods\Evolution\EvoTranc\DATA\Items\2ArtTranclucatorWhite_ab.gi
+        2ArtTranclucatorWhites=Mods\Evolution\EvoTranc\DATA\Items\2ArtTranclucatorWhite.gi
+        2ArtTranclucatorYellowab=Mods\Evolution\EvoTranc\DATA\Items\2ArtTranclucatorYellow_ab.gi
+        2ArtTranclucatorYellows=Mods\Evolution\EvoTranc\DATA\Items\2ArtTranclucatorYellow.gi
+        2ArtTranclucator_ab=Mods\Evolution\EvoTranc\DATA\Items\2ArtTranclucator_ab.gi
+        2ArtTranclucator_s=Mods\Evolution\EvoTranc\DATA\Items\2ArtTranclucator.gi
+        2CargoHooks=data\Items\2CargoHookKling0s.gi
+        2DefGenerators=data\Items\2DefGeneratorKling0s.gi
+        2Engines=data\Items\2EngineKling0s.gi
+        2FuelTankss=data\Items\2FuelTanksKling0s.gi
+        2Radars=data\Items\2RadarKling0s.gi
+        2RepairRobots=data\Items\2RepairRobotKling0s.gi
+        2Scaners=data\Items\2ScanerKling0s.gi
+    }
+    ItemsUseless ~{
+        2WeightReserve_s=Mods\Evolution\EvoTranc\DATA\Items\WeightReserve.gi
+    }
+    PanelSpace2 ~{
+        2Tranc_talk=Mods\Evolution\EvoTranc\DATA\PanelSpace2\talk_on.png
+        2Tranc_talk_2=Mods\Evolution\EvoTranc\DATA\PanelSpace2\talk_off.png
+        2TranclucatorA=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorA.png
+        2TranclucatorBlueA=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorBlueA.png
+        2TranclucatorBlueD=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorBlueD.png
+        2TranclucatorBlueH=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorBlueH.png
+        2TranclucatorBlueN=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorBlueN.png
+        2TranclucatorCyanA=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorYellowA.png
+        2TranclucatorCyanD=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorYellowD.png
+        2TranclucatorCyanH=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorYellowH.png
+        2TranclucatorCyanN=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorYellowN.png
+        2TranclucatorD=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorD.png
+        2TranclucatorGreenA=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorGreenA.png
+        2TranclucatorGreenD=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorGreenD.png
+        2TranclucatorGreenH=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorGreenH.png
+        2TranclucatorGreenN=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorGreenN.png
+        2TranclucatorH=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorH.png
+        2TranclucatorN=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorN.png
+        2TranclucatorPanel=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorPanel.png
+        2TranclucatorPanelPartners=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorPanelPartners.png
+        2TranclucatorPanelSingle=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorPanelSingle.png
+        2TranclucatorRedA=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorRedA.png
+        2TranclucatorRedD=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorRedD.png
+        2TranclucatorRedH=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorRedH.png
+        2TranclucatorRedN=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorRedN.png
+        2TranclucatorVioletA=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorVioletA.png
+        2TranclucatorVioletD=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorVioletD.png
+        2TranclucatorVioletH=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorVioletH.png
+        2TranclucatorVioletN=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorVioletN.png
+        2TranclucatorWhiteA=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorWhiteA.png
+        2TranclucatorWhiteD=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorWhiteD.png
+        2TranclucatorWhiteH=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorWhiteH.png
+        2TranclucatorWhiteN=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorWhiteN.png
+        2TranclucatorYellowA=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorYellowA.png
+        2TranclucatorYellowD=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorYellowD.png
+        2TranclucatorYellowH=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorYellowH.png
+        2TranclucatorYellowN=Mods\Evolution\EvoTranc\DATA\PanelSpace2\2TranclucatorYellowN.png
+        2zaglushka_tranc_ms_blk=Mods\Evolution\EvoTranc\DATA\PanelSpace2\zaglushka_tranc_ms_blk.png
+    }
+    Ship ~{
+        Tranclucator=Mods\Evolution\EvoTranc\DATA\Ship\Tranclucator.hai
+        TranclucatorBlue=Mods\Evolution\EvoTranc\DATA\Ship\TranclucatorBlue.hai
+        TranclucatorBlues=Mods\Evolution\EvoTranc\DATA\Ship\TranclucatorBlues.hai
+        TranclucatorGreen=Mods\Evolution\EvoTranc\DATA\Ship\TranclucatorGreen.hai
+        TranclucatorGreens=Mods\Evolution\EvoTranc\DATA\Ship\TranclucatorGreens.hai
+        TranclucatorRed=Mods\Evolution\EvoTranc\DATA\Ship\TranclucatorRed.hai
+        TranclucatorReds=Mods\Evolution\EvoTranc\DATA\Ship\TranclucatorReds.hai
+        TranclucatorViolet=Mods\Evolution\EvoTranc\DATA\Ship\TranclucatorViolet.hai
+        TranclucatorViolets=Mods\Evolution\EvoTranc\DATA\Ship\TranclucatorViolets.hai
+        TranclucatorWhite=Mods\Evolution\EvoTranc\DATA\Ship\TranclucatorWhite.hai
+        TranclucatorWhites=Mods\Evolution\EvoTranc\DATA\Ship\TranclucatorWhites.hai
+        TranclucatorYellow=Mods\Evolution\EvoTranc\DATA\Ship\TranclucatorYellow.hai
+        TranclucatorYellows=Mods\Evolution\EvoTranc\DATA\Ship\TranclucatorYellows.hai
+        Tranclucators=Mods\Evolution\EvoTranc\DATA\Ship\Tranclucators.hai
+    }
+    ShipP ~{
+        2Tranclucator=Mods\Evolution\EvoTranc\DATA\ShipP\2Tranclucator.gi
+        2TranclucatorBlue=Mods\Evolution\EvoTranc\DATA\ShipP\2TranclucatorBlue.gi
+        2TranclucatorGreen=Mods\Evolution\EvoTranc\DATA\ShipP\2TranclucatorGreen.gi
+        2TranclucatorRed=Mods\Evolution\EvoTranc\DATA\ShipP\2TranclucatorRed.gi
+        2TranclucatorViolet=Mods\Evolution\EvoTranc\DATA\ShipP\2TranclucatorViolet.gi
+        2TranclucatorWhite=Mods\Evolution\EvoTranc\DATA\ShipP\2TranclucatorWhite.gi
+        2TranclucatorYellow=Mods\Evolution\EvoTranc\DATA\ShipP\2TranclucatorYellow.gi
+        TranclucatorSm=Mods\Evolution\EvoTranc\DATA\ShipP\2TranclucatorSm.gi
+        TranclucatorSmBlue=Mods\Evolution\EvoTranc\DATA\ShipP\2TranclucatorSmBlue.gi
+        TranclucatorSmGreen=Mods\Evolution\EvoTranc\DATA\ShipP\2TranclucatorSmGreen.gi
+        TranclucatorSmRed=Mods\Evolution\EvoTranc\DATA\ShipP\2TranclucatorSmRed.gi
+        TranclucatorSmViolet=Mods\Evolution\EvoTranc\DATA\ShipP\2TranclucatorSmViolet.gi
+        TranclucatorSmWhite=Mods\Evolution\EvoTranc\DATA\ShipP\2TranclucatorSmWhite.gi
+        TranclucatorSmYellow=Mods\Evolution\EvoTranc\DATA\ShipP\2TranclucatorSmYellow.gi
+    }
+    Weapon ~{
+        MusashiGun=Mods\Evolution\EvoTranc\DATA\Weapon\MusashiGun.gai
+    }
+}
+Sound ~{
+    CherubActive=Mods\Evolution\EvoTranc\DATA\Sound\CherubActive.wav
+    JebeActive=Mods\Evolution\EvoTranc\DATA\Sound\JebeActive.wav
+    MusashiGunCharge=Mods\Evolution\EvoTranc\DATA\Sound\MusashiGunCharge.wav
+    MusashiGunFire=Mods\Evolution\EvoTranc\DATA\Sound\MusashiGunFire.wav
+    MusashiGunOff=Mods\Evolution\EvoTranc\DATA\Sound\MusashiGunOff.wav
+}
+Script ~{
+    Mod_EvoTranc=Mods\Evolution\EvoTranc\DATA\Script\Mod_EvoTranc.scr
+}

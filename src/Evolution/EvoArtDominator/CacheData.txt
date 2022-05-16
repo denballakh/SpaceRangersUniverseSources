@@ -1,0 +1,37 @@
+Bm ~{
+    FormShip2 ~{
+        2AI_50=data\Items\Remains\Terron\2Remains22s.gi
+        2AI_50L=data\Items\Remains\Terron\2Remains22s.gi
+        2AI_51=Mods\Evolution\EvoArtDominator\DATA\Items\Arts\2Remains05s.gi
+        2AI_51L=Mods\Evolution\EvoArtDominator\DATA\Items\Arts\2Remains05s.gi
+    }
+    Items ~{
+        2ArtDominator-0_s=Mods\Evolution\EvoArtDominator\DATA\Items\Arts\2Remains00s.gi
+        2ArtDominator-10_s=data\Items\Remains\Blazer\2Remains10s.gi
+        2ArtDominator-11_s=data\Items\Remains\Blazer\2Remains11s.gi
+        2ArtDominator-12_s=data\Items\Remains\Blazer\2Remains12s.gi
+        2ArtDominator-13_s=data\Items\Remains\Blazer\2Remains13s.gi
+        2ArtDominator-14_s=data\Items\Remains\Keller\2Remains14s.gi
+        2ArtDominator-15_s=data\Items\Remains\Keller\2Remains15s.gi
+        2ArtDominator-16_s=data\Items\Remains\Keller\2Remains16s.gi
+        2ArtDominator-17_s=data\Items\Remains\Keller\2Remains17s.gi
+        2ArtDominator-18_s=data\Items\Remains\Keller\2Remains18s.gi
+        2ArtDominator-19_s=data\Items\Remains\Terron\2Remains19s.gi
+        2ArtDominator-1_s=Mods\Evolution\EvoArtDominator\DATA\Items\Arts\2Remains01s.gi
+        2ArtDominator-20_s=data\Items\Remains\Terron\2Remains20s.gi
+        2ArtDominator-21_s=data\Items\Remains\Terron\2Remains21s.gi
+        2ArtDominator-22_s=data\Items\Remains\Terron\2Remains22s.gi
+        2ArtDominator-23_s=data\Items\Remains\Terron\2Remains23s.gi
+        2ArtDominator-2_s=Mods\Evolution\EvoArtDominator\DATA\Items\Arts\2Remains02s.gi
+        2ArtDominator-3_s=Mods\Evolution\EvoArtDominator\DATA\Items\Arts\2Remains03s.gi
+        2ArtDominator-4_s=Mods\Evolution\EvoArtDominator\DATA\Items\Arts\2Remains04s.gi
+        2ArtDominator-5_s=Mods\Evolution\EvoArtDominator\DATA\Items\Arts\2Remains05s.gi
+        2ArtDominator-6_s=Mods\Evolution\EvoArtDominator\DATA\Items\Arts\2Remains06s.gi
+        2ArtDominator-7_s=Mods\Evolution\EvoArtDominator\DATA\Items\Arts\2Remains07s.gi
+        2ArtDominator-8_s=Mods\Evolution\EvoArtDominator\DATA\Items\Arts\2Remains08s.gi
+        2ArtDominator-9_s=data\Items\Remains\Blazer\2Remains09s.gi
+    }
+    Weapon ~{
+        MissileTarget=Mods\Evolution\EvoArtDominator\DATA\Weapon\Effect\MissileTarget.gai
+    }
+}
